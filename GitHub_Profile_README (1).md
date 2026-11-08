@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" width="100%" alt="Nirali: I explore how technology can influence real-world decisions"></p>
+<p align="center"><img src="assets/banner-pink.svg" width="100%" alt="Nirali: I explore how technology can influence real-world decisions"></p>
 
 <p align="center"><img src="assets/intro.svg" width="100%" alt="hey, i'm Nirali. CS + AI student at Banasthali Vidyapith. I like building things that make decisions a little less guessy."></p>
 
@@ -19,4 +19,3 @@
 </p>
 
 <p align="center"><sub>🐈‍⬛ the cat walks by every now and then. no, it is not a bug.</sub></p>
-# nirali97
