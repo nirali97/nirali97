@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/niralikukreja/"><img src="assets/btn-linkedin.svg" width="150" alt="LinkedIn"></a>
 <a href="mailto:niralikukrejaa@gmail.com"><img src="assets/btn-email.svg" width="150" alt="Email"></a>
-<a href="https://portfolioww.vercel.app/"><img src="assets/btn-portfolio.svg" width="150" alt="Portfolio"></a>
+<a href="https://portfolioww-nirali.vercel.app/"><img src="assets/btn-portfolio.svg" width="150" alt="Portfolio"></a>
 </p>
 
 <p align="center"><sub>🐈‍⬛ the cat walks by every now and then. no, it is not a bug.</sub></p>
